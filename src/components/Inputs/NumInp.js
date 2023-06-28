@@ -9,7 +9,7 @@ const CustomInput = styled(TextField)(({ theme }) => ({
       duration: theme.transitions.duration.standard,
     }),
   },
-  "& .css-10botns-MuiInputBase-input-MuiFilledInput-input": {
+  "& .MuiFilledInput-input": {
     background: "#3d404b",
     color: "#fff",
     borderRadius: "7px 7px 0 0",

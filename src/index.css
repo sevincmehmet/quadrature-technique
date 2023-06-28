@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  background-image: linear-gradient(60deg,rgb(39, 42, 55) 30%,rgba(39, 42, 55, 0.924) 70%,rgba(38, 41, 54, 0.775) 100%), url("https://ae01.alicdn.com/kf/H1cec31e126a7472e828747866e352d17k.jpg_640x640Q90.jpg_.webp");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: right;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  height: 100vh;
+}

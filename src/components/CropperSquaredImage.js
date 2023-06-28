@@ -133,7 +133,6 @@ const CropperSquaredImage = ({ navigate }) => {
             value={squaredLengths.horizontal}
             handleChange={handleRatioChange}
             error={!horizonalEmpty}
-            // style={!horizonalEmpty && { borderColor: "yellow" }}
             type="number"
           />
         }
